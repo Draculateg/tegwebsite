@@ -1,0 +1,123 @@
+<style>  
+                      
+                      
+
+
+
+#divh1{background:black;
+    width: auto;
+    height: auto;
+    
+    
+}
+
+                      #divteam{background:black;
+                          width:auto;
+                          height:auto; 
+                          
+                      }
+                      #divbanner{
+                
+                          margin-top:0px; 
+                          
+                      }
+                     
+                          
+                          
+                      }
+                      
+                      #div2{
+                          background: black;
+                          width:600px;
+                          height:90px; 
+                      margin:50px; 500px;    
+                      }
+                      
+                      #div3S{background:red;
+                          width:200px;
+                          height:90px;
+                          margin-left:1300px;
+                          
+                      }
+                      .divtell {width:500px; 
+                          float: left;
+                          
+                      }
+                      .divaudio{
+                          float:right;
+                          width: auto;
+                      }
+                      
+                      
+                    h1{font-size: 55px;
+                      color: red;
+                       width:auto;
+                        height:auto; 
+margin-top:0px; 
+margin-left: auto;
+    ;
+ }
+                      
+                      #h3hello {float: left;
+                          width:auto;
+                          height:auto; 
+                          background-color: black;
+                          color:aqua;
+                          margin-right:50%; 
+                          
+                          
+                      }
+                      #h3tell{float: left;
+                          width:auto;
+                          height:auto; 
+                          background-color: black;
+                          color:aqua;
+                          margin-right:50%;
+                          
+                      }   
+                      
+                      ul li {float:left;
+                          list-style: none;
+                          margin-left:30px;
+                          background:black;
+                          color:red;
+                          padding:0 30px;
+                          line-height:40px;
+                          
+                          
+                          
+                          
+                      }
+        
+                   a {text-decoration:none;
+                    color:red;
+                      font-size: 30px;
+                       font-style: italic;
+                 
+        }
+               ul li:hover {
+                   color: cyan;
+                 text-decoration:underline;
+                   text-transform:capitalize
+                     
+                      }
+                   
+                      iframe{border:5px solid red;
+                         transform: matrix3d(); 
+                      float: right;
+                          margin:0; 
+                      }
+                   
+                      ul ul {display: none;
+                      }
+                      ul li:hover ul {
+                          display:flex;
+                          
+                          
+                      }
+                      audio{
+                         float:right; 
+                      }
+
+             </style>
+    
